@@ -23,6 +23,7 @@ def print_menu():
 
     print('[X] Close')
 
+
 #instructions
 
 opc = ""
