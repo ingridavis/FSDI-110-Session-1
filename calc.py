@@ -24,6 +24,7 @@ def print_menu():
     print('[X] Close')
 
 #instructions
+
 opc = ""
 while( opc != 'X'):
     print_menu()
@@ -54,3 +55,10 @@ while( opc != 'X'):
 
 
 print ("Good-bye!")
+
+"""
+    After changes 
+    - type a message
+    - commit
+    - push to send to GitHub
+"""
