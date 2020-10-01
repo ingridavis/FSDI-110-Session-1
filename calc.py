@@ -1,5 +1,6 @@
 
 #functions
+
 def print_menu():
     print ( "-" *15)
     print ( " Python Calc ")
